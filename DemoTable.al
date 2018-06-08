@@ -10,7 +10,7 @@ table 50101 Address
         {
             Description = 'Address Retrieved By Service';
         }
-        field(2; "Locallity2"; Text[30])
+        field(2; "Locallity"; Text[30])
         {
             Description = 'Locallity retrieved by Service';
         }
